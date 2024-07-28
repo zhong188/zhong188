@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello, it's zhong.i'm currently learning at XMU.
+                      ### Hi there 👋
+Hello, it's zhong. learning at XMU currently.
 <!--
 **zhong188/zhong188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
